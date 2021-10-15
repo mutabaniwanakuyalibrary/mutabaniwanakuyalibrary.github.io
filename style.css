@@ -1,0 +1,27 @@
+
+/*This is just a style maker*/
+
+.body {
+	background: linear-gradient(to right,white,darkgreen,darkorange,darkblue,white);
+	font-size: 29px;
+	font-family: Gill Sans MT;
+	color: white;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	vertical-align: auto;
+	background-origin: content-box;
+}
+
+.btn {
+	background-color: maroon;
+	font-size: 24px;
+	font-family: Gill Sans MT;
+	color: white;
+	padding: 22px;
+	border-width: 3px;
+	border-radius: 18px 0px 18px 0px;
+}
+
+.btn:hover {
+	background-color: royalblue;
+}
